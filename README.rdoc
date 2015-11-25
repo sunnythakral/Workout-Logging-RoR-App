@@ -9,6 +9,7 @@ At present the user can:
 
 Implemented the CRUD functionality on the server side to accomplish this funtionality
 
+* Rails version : 4.2.4
 * Ruby version : 2.2.3
 
 
