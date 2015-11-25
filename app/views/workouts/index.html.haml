@@ -1,4 +1,4 @@
 
 - @workouts.each do |w|
-	%h2= link_to w.date, w
+	%h2= link_to w.date.strftime("%a %b %e %Y %T"), w
 	%h3= w.workout
