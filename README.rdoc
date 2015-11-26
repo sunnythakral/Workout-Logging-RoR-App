@@ -15,7 +15,7 @@ Implemented the CRUD functionality on the server side to accomplish this funtion
 
 * Running instructions
 - create a working directory and cd into it
-- git clone https://github.com/sunnythakral/Workout-Logging-RoR-App
+- perform a the specified link 'git clone https://github.com/sunnythakral/Workout-Logging-RoR-App'
 - cd into the project folder created by the git clone command
 - perform the following commands in your CLI
 
