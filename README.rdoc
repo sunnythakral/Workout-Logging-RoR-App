@@ -7,7 +7,7 @@ At present the user can:
 -delete the workout, which would also delete the exercises added to that workout 
 -view all the workouts and exercises created within them
 
-Implemented the CRUD functionality on the server side to accomplish this funtionality
+Implemented the CRUD functionality on the server side to accomplish these functionalities
 
 * Rails version : 4.2.4
 * Ruby version : 2.2.3
