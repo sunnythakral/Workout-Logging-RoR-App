@@ -21,7 +21,7 @@ Implemented the CRUD functionality on the server side to accomplish these functi
 - perform the following commands in your CLI
 
 bundle install
-rake db:create
+rake db:setup
 rake db: migrate
 
 The commands with install the required gems in the Gemfile, create and initialize our database according to the model schema in our rails app.
